@@ -7,7 +7,7 @@ https://daveymanuel.github.io/First_Portfolio/
 
 ## Technologies
 
-For my first portfolio, I have designed my html documents to have responsive design for mobile platforms. By using Bootstrap I have learned how to implement navs, navbars, buttons, forms, cards, and sticky footers. I have also learned how to efficiently use Bootstrap's grid system consisting of rows and columns. In addition, I also was able to design my components using bootstrap colors such as bg-dark, bg-gradient, text-white, text-warning, text-muted, and border-info. 
+For my first portfolio, I have designed my html documents to have responsive design for mobile platforms. By using Bootstrap I have learned how to implement navs, navbars, buttons, forms, cards, and sticky footers. I have also learned how to efficiently use Bootstrap's grid system consisting of rows and columns. In addition, I also was able to design my components using bootstrap colors such as bg-dark, bg-gradient, text-white, text-warning, text-muted, and border-info. To add a background image I created my own custom stylesheet and modified the body tag by using "background-image: url();"
 
 ## Pages
 
