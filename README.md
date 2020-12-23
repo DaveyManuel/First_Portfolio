@@ -7,9 +7,9 @@ https://daveymanuel.github.io/First_Portfolio/
 
 ## Screenshots of Portfolio
 
-<img src="">
-<img src="">
-<img src="">
+<img src="./Images/ScreenshotAboutMe.png">
+<img src="./Images/ScreenshotPortfolio.png">
+<img src="./Images/ScreenshotContact.png">
 
 ## Technologies
 
