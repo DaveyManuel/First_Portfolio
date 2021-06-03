@@ -5,12 +5,6 @@
 
 https://daveymanuel.github.io/First_Portfolio/
 
-## Screenshots of Portfolio
-
-<img src="./Images/ScreenshotAboutMe.png">
-<img src="./Images/ScreenshotPortfolio.png">
-<img src="./Images/ScreenshotContact.png">
-
 ## Technologies
 
 For my first portfolio, I have designed my html documents to have responsive design for mobile platforms. By using Bootstrap I have learned how to implement navs, navbars, buttons, forms, cards, and sticky footers. I have also learned how to efficiently use Bootstrap's grid system consisting of rows and columns. In addition, I also was able to design my components using bootstrap colors such as bg-dark, bg-gradient, text-white, text-warning, text-muted, and border-info. To add a background image I created my own custom stylesheet and modified the body tag by using "background-image: url();"
@@ -25,8 +19,8 @@ In my About Me section I implemented a card component with a responsive image us
 
 ### Portfolio
 
-For my portfolio I decided to use the card component as well in order to maintain consistency with my About Me and Contact section. For the images in my portfolio I decided to give them a class of "img-fluid" and "img-thumbnail" to attain the desired look. 
+For my portfolio section I show the projects I have worked on followed by a brief description of each. 
 
 ### Contact
 
-For my contact page I decided to use a form component nested in a card component to engage with the user if they want to send me a message. 
+For my contact page I implemented the use of a card component with my professional links attached.
